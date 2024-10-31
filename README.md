@@ -3,7 +3,7 @@
 
 Ce projet est une application Java basée sur Spring Boot, implémentant des services web RESTful. L'API offre des fonctionnalités pour gérer des comptes (`Compte`) et renvoie des données en formats XML et JSON selon les préférences du client.
 ## Video 
-[![Watch the video](https://github.com/Oussama-benrkia/jersey-api-xml-json/blob/main/api.mp4)
+[![Watch the video](https://drive.google.com/file/d/1Ev-XvIWylH1p9nuCDIXrgk2ikU0uMRlm/view?usp=sharing)
 ## Structure du Projet
 
 Voici une vue d'ensemble de l'arborescence des fichiers dans le projet :
